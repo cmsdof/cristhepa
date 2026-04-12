@@ -1,0 +1,17 @@
+Code,Name,Frequency,Time of Day,Priority
+H01,Steps,Everyday,Wake-up,1
+H02,Pull-ups,Everyday,Wake-up,2
+H03,Gym,"Monday, Tuesday, Wednesday, Thursday, Friday",Morning,2
+H04,Study,"Monday, Tuesday, Wednesday, Thursday, Friday",Morning,4
+H05,Work,Everyday,"Afternoon, Night",5
+H06,Rest,Everyday,"Morning, Unwind",3
+H07,Breakfast,Everyday,Morning,1
+H08,Lunch,Everyday,Afternoon,1
+H09,Dinner,Everyday,Night,1
+H10,Dishes,Everyday,"Night, Wake-up",3
+H11,Meal Prep.,Saturday,Morning,1
+H12,Groceries,Monday,Morning,5
+H13,Vacuum,Saturday,Morning,2
+H14,Mopping,"Saturday, Every other Week",Morning,3
+H15,Bathroom,"Saturday, Every other Week",Morning,4
+H16,Trash,"Tuesday, Thursday, Saturday",Night,5
